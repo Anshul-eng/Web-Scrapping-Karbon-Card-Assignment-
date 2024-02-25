@@ -7,5 +7,5 @@ intall the require modules
 2. npm i puppeteer
 3. npm i csv-writer
 
-First i build this webscraping code so that it goes to linkedIn.com then i def
-this code will create a csv file 'data.csv' after running the script, this code goes to google first search company name and append LinkedIn page to get the link of linkedIn page
+this code will create a csv file 'data.csv' after running the scraper.js file, this code goes to google first search company name and append LinkedIn, so that linkedin url comes first and add it to data.csv file
+
